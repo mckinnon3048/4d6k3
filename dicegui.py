@@ -1,3 +1,4 @@
+#split from new file diceroller.py intent to make separate gui based roller using TK
 import random
 
 def dice_pool():
